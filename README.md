@@ -7,7 +7,6 @@ https://community.openenergymonitor.org/t/diy-lithium-battery-balancer-and-monit
 Some Youtube videos on the BMS building and testing can be found at
 https://www.youtube.com/playlist?list=PLiYbY8lzAN-2qB9rR0Sc7Z7sUrsgYzsiV
 
-I've left Stuarts readme pretty much as standard below for now.
 
 # Problem
 
